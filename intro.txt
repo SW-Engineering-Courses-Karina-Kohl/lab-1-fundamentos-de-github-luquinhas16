@@ -3,6 +3,7 @@ Esta é a versão inicial do arquivo.
 
 editing intro.txt
 
+
 modifying feature-branch
 
 modifying feature-branch 2
